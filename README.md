@@ -110,6 +110,10 @@ Intel_Edge_Final_Project_CareLift/
 ├── wheelchair_yolo/             # Jetson용 YOLO 휠체어 감지 Jupyter 코드
 │   └── wheelchair.ipynb
 │
+├── images/             
+│   ├── CareLift System – Front View
+│   └── CareLift System – Rear View
+│ 
 ├── .gitignore
 ├── LICENSE
 └── README.md
