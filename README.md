@@ -66,6 +66,14 @@ STT의 define.h와 TTS.c 파일에서 아래 부분을 본인의 Google API 키�
 
 ---
 
+## 🎥 시연 영상
+
+- [👉 버튼 제어 시연 영상](https://youtube.com/shorts/Synbe0SKUcM?feature=share)
+- [👉 음성 인식 제어 시연 영상](https://youtube.com/shorts/OxAtrQXdJtA?feature=share)
+- [👉 휠체어 우선탑승 시연 영상](https://youtube.com/shorts/Th-BcP5JXi0?feature=share)
+
+---
+
 ## 📁 폴더 구조
 
 ```bash
