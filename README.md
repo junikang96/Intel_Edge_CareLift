@@ -74,6 +74,18 @@ STT의 define.h와 TTS.c 파일에서 아래 부분을 본인의 Google API 키�
 
 ---
 
+## 📸 시연 사진
+
+### 전면부 사진
+
+<img src="./images/CareLift System – Front View.jpg" width="500px" />
+
+### 후면부 사진
+
+<img src="./images/CareLift System – Rear View.jpg" width="500px" />
+
+---
+
 ## 📁 폴더 구조
 
 ```bash
