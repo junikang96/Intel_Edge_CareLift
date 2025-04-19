@@ -89,7 +89,7 @@ STT의 define.h와 TTS.c 파일에서 아래 부분을 본인의 Google API 키�
 ## 📁 폴더 구조
 
 ```bash
-Intel_Edge_Final_Project_CareLift/
+Intel_Edge_CareLift/
 ├── arduino/                      # RFID 인증 및 게이트 제어어 (Arduino Nano)
 │   └── edge_elevator_done.ino
 │
